@@ -1,0 +1,29 @@
+JoseLloyds Bank
+Exemplo de entrada para o Lab do Banco.
+Bla bla
+==================================================
+Quantidade maxima de correntistas
+10000000000000
+
+INICIO
+ABRE_CONTA            Tio Patinhas
+ABRE_CONTA            Irmao Metralha
+ABRE_CONTA            Mickey
+DEPOSITO        0.01  Tio Patinhas
+DEPOSITO      500.00  Irmao Metralha
+DEPOSITO      200.00  Tio Patinhas
+ABRE_CONTA            Margarida
+DEPOSITO      400.00  Tio Patinhas
+SAQUE         888.00  Irmao Metralha
+DEPOSITO      990.00  Tio Patinhas
+DEPOSITO      111.00  Margarida
+EXTRATO               Irmao Metralha
+EXTRATO               Tio Patinhas
+EXTRATO               Pateta
+EXTRATO               Margarida
+DEPOSITO       44.77  Mickey
+ABRE_CONTA            Pateta
+FECHA_CONTA           Mickey
+FECHA_CONTA	      Margarida
+DEPOSITO     6000.00  Tio Patinhas
+FIM

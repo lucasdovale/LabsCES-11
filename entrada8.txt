@@ -1,0 +1,22 @@
+Exemplo de arquivo de entrada
+Fonte: Fernando Nogueira - UFRRJ
+bla bla
+------------------------------------------------------------
+TAREFA        DESCRICAO            DURACAO  TAREFAS 
+                                   SEMANAS  PRECEDENTES
+------------------------------------------------------------
+  F   Encanamento interior            5     E
+  J   Divisorias                      8     F,I
+  A   Escavacao                       2     .
+  B   Fundacao                        4     A
+  C   Paredes                        10     B
+  D   Telhado                         6     C
+  E   Encanamento exterior            4     C
+  G   Muros                           7     D
+  H   Pintura exterior                9     G,E
+  I   Instalacao eletrica             7     C
+  K   Piso                            4     J
+  L   Pintura interior                5     J
+  M   Acabamento exterior             2     H
+  N   Acabamento interior             6     K,L
+------------------------------------------------------------
